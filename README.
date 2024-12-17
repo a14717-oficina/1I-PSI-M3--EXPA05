@@ -1,0 +1,8 @@
+                                                                                                                     OBJETIVO
+O  objetivo do programa é realizar um questionário sobre pelo caso do proprio questionário fazer uma revisão sobre o estado da escola como a limpeza,as instalações ,a qualidade do atendimento etc..
+O codigo está dividido em funções que cada uma faz parte da composição do programa.
+A primeira função é o def_apresentar_questionario
+Esta função serve para apresentar o menu que tem como escolha começar o questionario ou sair do programa.
+A segunda função é def_exportar_resultados 
+Esta função serve para no final do questionário o programa pedir um nome ao utilizador para meter no nome do ficheiro para serem guardadas as respostas e ficar um ficheiro  neste caso no replit com as repostas submetidas pelo utilizador naquele questionário em especifico.
+A ultima função do programa é a def_main esta função serve para gerir todo o programa e que começa e encerra o programa.
